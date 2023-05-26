@@ -1,0 +1,5 @@
+customtkinter==5.1.3
+diffusers==0.16.1
+Pillow==9.5.0
+streamlit==1.22.0
+torch==2.0.1+cu118
