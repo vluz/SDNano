@@ -11,6 +11,10 @@ Can run inside **1.8 GB** of VRAM
 
 Tested with **Python 3.10.6**
 
+Uses Azure ttk dark theme (https://github.com/rdbende/Azure-ttk-theme)
+
+<hr>
+
 (optional) You can create a virtual environment with:
 ```
 python -m venv "venv"
