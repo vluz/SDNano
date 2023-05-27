@@ -5,7 +5,7 @@ Memoty effecient and compact implementation of Stable Diffusion
 
 Implements xformers, attention slicing and sequential cpu offloading
 
-Can run inside 2GB of VRAM
+Can run inside **1.8 GB** of VRAM
 
 To install do:
 ```
