@@ -13,6 +13,10 @@ Tested with **Python 3.10.6**
 
 Uses Azure ttk dark theme (https://github.com/rdbende/Azure-ttk-theme)
 
+Require HuggingFace Security token in file `authtoken.py`, can be gotten freely, details at:
+<br>
+https://huggingface.co/docs/hub/security-tokens
+
 <hr>
 
 (optional) You can create a virtual environment with:
