@@ -1,5 +1,5 @@
 # sdnano
-### Very small implementation of Stable Diffusion
+### Very small implementation of Stable Diffusion that is still useful
 
 Memory effecient and compact, can run decent SD models
 
