@@ -9,6 +9,8 @@ Implements xformers, attention slicing, and sequential cpu offloading
 
 Can run inside **1.8 GB** of VRAM
 
+Tested with **Python 3.10.6**
+
 (optional) You can create a virtual environment with:
 ```
 python -m venv "venv"
