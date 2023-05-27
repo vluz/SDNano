@@ -5,7 +5,7 @@ Memory effecient and compact, can run decent SD models
 
 Implements xformers, attention slicing, and sequential cpu offloading
 
-**disables safety_checker** be careful replacing the model
+**disables safety_checker**. be careful replacing the model
 
 Can run inside **1.8 GB** of VRAM
 
