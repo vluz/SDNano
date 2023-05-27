@@ -17,6 +17,7 @@ modelid = "CompVis/stable-diffusion-v1-4"
 device = "cuda"
 pipe = StableDiffusionPipeline.from_pretrained(modelid, revision="fp16", torch_dtype=torch.float16, use_auth_token=auth_token)
 pipe.enable_attention_slicing()
+pipe.safety_checker = None
 pipe.to(device)
 pipe.enable_sequential_cpu_offload()
 pipe.enable_xformers_memory_efficient_attention()
