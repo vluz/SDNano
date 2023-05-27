@@ -35,4 +35,10 @@ To use Realistic_Vision_V2.0 do: (https://huggingface.co/SG161222/Realistic_Visi
 <br>
 `python sdnanorv.py`
 
-Not tested, do not use in production.
+With RV2 and this example prompt from the model developper: <br>
+*RAW photo, a close up portrait photo of 26 y.o woman in wastelander clothes, long haircut, pale skin, slim body, background is city ruins, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3*<br>
+Result:<br>
+![Generation result](20230527-095756.png?raw=true "Result")
+
+
+Not fully tested, use in production at your own risk.
