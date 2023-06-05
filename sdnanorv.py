@@ -38,7 +38,7 @@ def generate(idevice, iprompt, inegative, isteps, iguidance):
         f.write("Negative : " + str(inegative) + "\n")
         f.write("Steps    : " + str(isteps) + "\n")
         f.write("Guidance : " + str(iguidance) + "\n")
-        f.write("Output   : " + ifilename + "\n")
+        f.write("Output   : " + str(ifilename) + "\n")
     f.close()
     return ifilename
 
