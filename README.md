@@ -12,7 +12,7 @@ Implements xformers, attention slicing, and sequential cpu offloading
 
 **disables safety_checker**, be careful replacing the model
 
-Can run inside **1.2 GB** of VRAM
+Can run inside **~1.2 GB** of VRAM
 
 Tested with **Python 3.10.6**
 
