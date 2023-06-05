@@ -20,7 +20,7 @@ Implements xformers, attention slicing, and sequential cpu offloading
 
 Can run inside **~1.2 GB** of VRAM (sdnanorv.py)
 
-Tested with **Python 3.10.6**
+Tested with **Python 3.10.6** https://www.python.org/downloads/release/python-3106/
 
 Uses Azure ttk dark theme (https://github.com/rdbende/Azure-ttk-theme)
 
