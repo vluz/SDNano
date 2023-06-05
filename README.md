@@ -1,6 +1,12 @@
 # sdnano
 ### **Update:** Please use `sdnanorv.py` for any generation. 
-The remaining implementations are reference and of smaller size for classes use.
+It includes a very good all-purpose model, vae, optimizations, deafault negative prompt,
+<br>
+control over other main generation variables, saves image file and prompt, displays results, 
+<br>
+and includes a demonstration prompt. It's very light on resources.
+
+The remaining implementations are reference and of smaller size for teaching uses.
 
 <hr>
 
@@ -12,7 +18,7 @@ Implements xformers, attention slicing, and sequential cpu offloading
 
 **disables safety_checker**, be careful replacing the model
 
-Can run inside **~1.2 GB** of VRAM
+Can run inside **~1.2 GB** of VRAM (sdnanorv.py)
 
 Tested with **Python 3.10.6**
 
