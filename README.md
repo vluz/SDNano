@@ -47,7 +47,11 @@ pip install -r requirements.txt
 
 On first run it will download several models from Hugging Face.
 <br>
-It will take quite some time, please let it finish.
+It will take quite some time, both on reqs above and on first run.
+<br>
+Please allow it time to finish.
+<br>
+All runs after the first are then faster to load.
 
 To run do:<br>
 ➡️**`python sdnanorv.py` for the fully functional cli version**
