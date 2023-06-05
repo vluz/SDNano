@@ -1,4 +1,9 @@
 # sdnano
+### **Update:** Please use `sdnanorv.py` for any generation. 
+The remaining implementations are reference and of smaller size for classes use.
+
+<hr>
+
 ### Very small implementation of Stable Diffusion that is still useful
 
 Memory effecient and compact, can run decent SD models
