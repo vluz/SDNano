@@ -18,13 +18,15 @@ Tested with **Python 3.10.6**
 
 Uses Azure ttk dark theme (https://github.com/rdbende/Azure-ttk-theme)
 
-Require HuggingFace Security token in file `authtoken.py`, can be gotten freely, details at:
+<hr>
+
+➡️Requires Hugging Face Security token in file `authtoken.py`, can be gotten freely, details at:
 <br>
 https://huggingface.co/docs/hub/security-tokens
 
-<hr>
+Open a command prompt and `cd` to a new directory of your choosing:
 
-(optional; recommended) You can create a virtual environment with:
+(optional; recommended) Create a virtual environment with:
 ```
 python -m venv "venv"
 venv\Scripts\activate
