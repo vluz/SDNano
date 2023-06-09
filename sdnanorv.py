@@ -80,3 +80,6 @@ while True:
     if not display or display.startswith("y"):
         displayimage()
         purge()
+
+        
+        
