@@ -63,10 +63,11 @@ To run do:<br>
 <br>or<br>
 `streamlit run sdnanoweb.py` for the reference streamlit version
 
-rv stands for Realistic_Vision_V2.0 (https://huggingface.co/SG161222/Realistic_Vision_V2.0)
-<br>
+<hr>
 
-With RV2 and this example prompt from the model developper: <br>
+RV stands for Realistic_Vision_V2.0 (https://huggingface.co/SG161222/Realistic_Vision_V2.0)
+
+With RV and this example prompt from the model developper: <br>
 *RAW photo, a close up portrait photo of 26 y.o woman in wastelander clothes, long haircut, pale skin, slim body, background is city ruins, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3*<br>
 Result:<br>
 ![Generation result](20230527-095756.png?raw=true "Result")
