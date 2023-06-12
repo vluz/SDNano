@@ -1,4 +1,4 @@
-# SD nano
+# SD Nano
 ### **Update:** Please use `sdnanorv.py` for any generation. 
 It includes a very good all-purpose model, vae, optimizations, deafault negative prompt,
 <br>
