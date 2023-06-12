@@ -1,4 +1,4 @@
-# sdnano
+# SD nano
 ### **Update:** Please use `sdnanorv.py` for any generation. 
 It includes a very good all-purpose model, vae, optimizations, deafault negative prompt,
 <br>
@@ -6,7 +6,7 @@ control over other main generation variables, saves image file and prompt, displ
 <br>
 and includes a demonstration prompt. It's very light on resources.
 
-The remaining implementations are reference and of smaller size for teaching uses.
+_The remaining implementations are reference and of smaller size for teaching purposes._
 
 <hr>
 
@@ -41,7 +41,7 @@ venv\Scripts\activate
 To install do:
 ```
 git clone https://github.com/vluz/sdnano.git
-cd sdnano
+cd SDNano
 pip install -r requirements.txt
 ```
 
