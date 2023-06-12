@@ -1,6 +1,6 @@
 # SD Nano
 ### **Update:** Please use `sdnanorv.py` for any generation. 
-It includes a very good all-purpose model, vae, optimizations, deafault negative prompt,
+It includes a very good all-purpose model, a vae, optimizations, deafault negative prompt,
 <br>
 control over other main generation variables, saves image file and prompt, displays results, 
 <br>
