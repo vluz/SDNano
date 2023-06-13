@@ -6,6 +6,7 @@ from torch import autocast
 from diffusers import StableDiffusionPipeline
 
 
+@st.cache_resource
 def generate(prompt):
     with autocast(device):
         image = pipe(prompt, guidance_scale=8.5).images[0]
