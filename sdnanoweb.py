@@ -10,7 +10,6 @@ from diffusers import StableDiffusionPipeline
 def generate(prompt):
     with autocast(device):
         image = pipe(prompt, guidance_scale=8.5).images[0]
-
     image.save(time.strftime("%Y%m%d-%H%M%S")+'.png')
     st.image(image)
 
